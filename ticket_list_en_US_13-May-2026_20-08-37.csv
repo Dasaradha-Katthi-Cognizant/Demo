@@ -1,0 +1,21 @@
+﻿"Activity Type","Created Date","Created By","Activity "
+"Worklog (Update)","05/13/2026 08:08 PM","B, Ilackya","Added Worklog (Update) Creating defect  Time Spent(Min) : 10"
+"Communication","05/13/2026 08:08 PM","B, Ilackya","OUTGOING-EMAIL To: ClaimSphere Product Support Subject: DO NOT REPLY - Notification - INQ_SRQ# 300-1251909 Message:  Service Request:300-1251909 has been updated with a work log.     Following are some of the worklog details from that Service Request: WORK DESCRIPTION :: Creating defect ASSIGNED TO :: ClaimSphere Product Support ,  WORK TYPE :: Update WORK TIME SPENT :: 10 REQUESTER NAME::  B, Ilackya REQUESTER ORGANIZATION::  R - India"
+"Custom Field Updates","05/13/2026 08:08 PM","B, Ilackya","Resolution Type changed from [NonDefect] to [Defect]"
+"Custom Field Updates","05/13/2026 08:08 PM","B, Ilackya","Steps to recreate.   Is the issue sporadic or can it be consistently recreated? attribute added with  [recreated steps]"
+"Communication","05/13/2026 08:07 PM","B, Ilackya","OUTGOING-EMAIL To: Ilackya.B@cognizant.com Subject: Incident Medium INC# 300-1251909 has been accepted by a service desk agent. Message:  This message is to inform you that TriZetto Support has accepted your incident for work.  Additional updates will be sent to you as available. Ticket Details ---------------- Ticket # 300-1251909 Ticket Description: [Testing Purpose] Defect creation Assigned Group: ClaimSphere Product Support If you have any questions, please update this ticket by replying to this e-mail, or by logging into TriZetto Service Desk. https://csm3.serviceaide.com/?displayTicketType=Incident&ticketType=Incident&MdrElementID=3914452&MdrProduct=CA%3A00050&MdrProdInstance=97135ad0-1954-4777-b7a8-0d416be71374#WORKSPACES-SERVICE-DESK-Ticket-Details  Thank You, TriZetto Support Team"
+"Action","05/13/2026 08:07 PM","Routing, Engine","Action Taken: Auto Assignment; Changed the status to: Queued with Reason Code: Assignment "
+"Communication","05/13/2026 08:07 PM","B, Ilackya","OUTGOING-EMAIL To: ; ClaimSphere Product Support Subject: DO NOT REPLY - Incident Medium 300-1251909 Assigned to  ClaimSphere Product Support. Org: R - India Message:  Ticket Number: 300-1251909 has been assigned to group: ClaimSphere Product Support with a Priority of Medium;  Requester:B,Ilackya Requester Email:Ilackya.B@cognizant.com Organization: R - India  Ticket Description: [Testing Purpose] Defect creation Ticket Detail: Defect creation details For more information log on to TriZetto Service Desk. Please do not reply to this email. Replies to this email will not be updated to the ticket."
+"Assignment","05/13/2026 08:07 PM","Routing, Engine","Assigned the ticket to group ClaimSphere Product Support"
+"Auto Route","05/13/2026 08:07 PM","Routing, Engine","Auto Route Applied: ClaimSphere Incident Routing New"
+"Field Updates","05/13/2026 08:07 PM","Routing, Engine","The following information was updated:  Requester: B, Ilackya; Description: [Testing Purpose] Defect creation; Details: Defect creation details Priority: Medium; Urgency: Medium; Impact: Multiple Users; Source: Web; Severity: Normal; Categorization: Licensed -> T3 Product -> ClaimSphere -> PF100;"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","*Product attribute added with  [ClaimSphere]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","*Release attribute added with  [001]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","*Version attribute added with  [25]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","ClaimSphere Module: attribute added with  [CS StarSERV]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","ClaimSphere Sub Module: attribute added with  [StarSERV - Star Exec]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","Last known good state? attribute added with  [05/12/2026 08:06 PM]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","What is the business impact? attribute added with  [NA]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","What was expected to happen? attribute added with  [NA]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","What was observed? attribute added with  [NA]"
+"Custom Field Updates","05/13/2026 08:07 PM","B, Ilackya","When did the issue start? attribute added with  [05/13/2026 08:06 PM]"
